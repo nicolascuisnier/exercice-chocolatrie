@@ -1,0 +1,48 @@
+footer{
+ 
+    border-width: 5px;
+    background-color: #8D6E63;
+}
+
+.credit-cards{
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 5%;
+}
+.phone{
+    text-align: center;
+    margin-top: 5%;
+}
+.mail{
+    text-align: center;
+    margin-top: 5%;
+  
+}
+.network{
+    margin-top: 5%;
+    text-align: center;
+    font-size: 2rem;
+}
+.title-nc{
+    font-size:1rem;
+    text-decoration:underline ;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.text-nc{
+    font-size: 1rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.Mention{
+    text-align: center;
+    padding: 5%;
+}
+a{
+    color: black;
+}
+.copy{
+    text-align: center;
+
+}
+
